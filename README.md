@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @acarrara192
-- 👀 I’m interested in getting more practical coding experience, especially related to game dev.
-- 🌱 I’m currently double majoring in Compsci and Urban Studies at Mcgill.  
+- 👀 I'm looking for a job or an internship, ideally in the realm of Urban Computing.
+- 🌱 I recently graduated with a double major in Compsci and Urban Studies at Mcgill.  
 - 💞️ I’m looking to collaborate on anything! 
 - 📫 How to reach me: arianna.carrara@mail.mcgill.ca
 
